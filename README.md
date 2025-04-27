@@ -1,1 +1,1 @@
-# Ml--Drug-Recommendation-system
+# medical_recommendation_system
